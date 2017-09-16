@@ -9,7 +9,12 @@ KeePassXC uses QShortcut and Firefox appears to use Cocoa directly. What stops t
 0x8000100 is exactly UTF-8 [5]. So, another amazing story of macOS: using UTF-8 as the default encoding can break things!
 
 [1] http://brettterpstra.com/2014/02/19/remote-pbcopy-on-os-x-systems/
+
 [2] https://seancoates.com/blogs/remote-pbcopy/
+
 [3] https://gist.github.com/burke/5960455
+
 [4] http://hints.macworld.com/article.php?story=20081231012753422
+
 [5] https://developer.apple.com/documentation/corefoundation/cfstringbuiltinencodings/1542603-utf8
+
